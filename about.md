@@ -3,5 +3,7 @@ layout: page
 title: About
 ---
 
-testing a description page
+A space for me to share my photos.
+
+Currently based in Brooklyn. Raised in Athens, Greece. Lived many places in between.
 
