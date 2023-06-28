@@ -11,3 +11,5 @@ Currently based in Brooklyn. Raised in Athens, Greece. Lived many places in betw
 ### Contact me
 
 tangerine.trampoline.photography@gmail.com
+
+[instagram](https://www.instagram.com/edie__nico/)
