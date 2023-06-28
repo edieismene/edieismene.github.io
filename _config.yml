@@ -25,3 +25,15 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: edieismene
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+ # twitter: edieismene
