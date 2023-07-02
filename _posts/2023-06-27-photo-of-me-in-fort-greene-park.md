@@ -1,5 +1,5 @@
 
-Portrait of me by mrkkry
+Portrait by @mrkkry
 
 ![me by mrkkry]({{ site.baseurl }}/images/UNADJUSTEDNONRAW_thumb_379b.jpeg)
 
