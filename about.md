@@ -5,7 +5,7 @@ title: About
 
 A space for me to share my photos.
 
-Raised in Athens, Greece. Currently based in Brooklyn. Lived many places in between.
+From Athens, Greece. Currently based in Brooklyn. Lived many places in between.
 
 
 ### Contact me
