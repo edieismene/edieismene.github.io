@@ -7,6 +7,8 @@ A space owned by me to share photos taken by me for me.
 
 From Athens, Greece. Currently based in Brooklyn, NY.
 
+This website was created using Github pages. [Theme]((https://github.com/riggraz/no-style-please)
+
 
 ### Contact me
 
