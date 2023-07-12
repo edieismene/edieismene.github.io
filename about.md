@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-A space for me to share my photos.
+A space owned by me to share photos taken by me for me.
 
-From Athens, Greece. Currently based in Brooklyn. Lived many places in between.
+From Athens, Greece. Currently based in Brooklyn, NY.
 
 
 ### Contact me
