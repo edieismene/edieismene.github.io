@@ -3,6 +3,15 @@ layout: page
 title: About
 ---
 
-This is an example page!
+A space owned by me to share photos taken by me for me.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+From Athens, Greece. Currently based in Brooklyn, NY.
+
+This website was created using Github pages. [Theme](https://github.com/riggraz/no-style-please)
+
+
+### Contact me
+
+[email](mailto:tangerine.trampoline.photography@gmail.com)
+
+[instagram.com/edie__nico](https://www.instagram.com/edie__nico/)
