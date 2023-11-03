@@ -1,5 +1,5 @@
 
 
 
-![me by mrkkry]({{ site.baseurl }}/images/UNADJUSTEDNONRAW_thumb_379b.jpeg)
+![me by mark]({{ site.baseurl }}/images/UNADJUSTEDNONRAW_thumb_379b.jpeg)
 
